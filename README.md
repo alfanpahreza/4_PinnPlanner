@@ -3,8 +3,8 @@
 Implementasi aplikasi menggunakan Room dan LiveData, dilengkapi dengan fitur berikut:
 - RecyclerView
 - TabLayout
-- Create Task
+- Create Task (Insert to Rerpository)
 
 Pending : 
-- Edit Task
-- Delete Task
+- Edit Task (Update data in Repository)
+- Delete Task (Delete data from Repository)
